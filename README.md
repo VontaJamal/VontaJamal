@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning Remix 💿
 - 🎥 I’m looking to create content for others
 - 🥅 2022 Goals: Grow DJWS
+- 🧠 Helped numerous people get jobs through teaching and mentoring
 - ⚡ Fun fact: I'm a huge anime fan and I think Naruto is the greatest story ever told.
 
 ---
