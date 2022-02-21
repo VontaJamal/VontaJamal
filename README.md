@@ -31,12 +31,20 @@
 
 ---
 
-<img align='left' alt="Vonta's Github Stats" src='https://github-readme-stats.vercel.app/api?username=vontajamal&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,stars&count_private=true'>
+<details>
+  <summary> 🔥 Stats </summary>
+  <img align='left' alt="Vonta's Github Stats" src='https://github-readme-stats.vercel.app/api?username=vontajamal&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,stars&count_private=true'>
+</details>
 
-<!--START_SECTION:activity-->
+<details>
+  <summary> 💪🏾 Work </summary>
+  <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#7](https://github.com/VontaJamal/seek-and-employ/pull/7) in [VontaJamal/seek-and-employ](https://github.com/VontaJamal/seek-and-employ)
 2. 💪 Opened PR [#7](https://github.com/VontaJamal/seek-and-employ/pull/7) in [VontaJamal/seek-and-employ](https://github.com/VontaJamal/seek-and-employ)
 3. 🎉 Merged PR [#6](https://github.com/VontaJamal/seek-and-employ/pull/6) in [VontaJamal/seek-and-employ](https://github.com/VontaJamal/seek-and-employ)
 4. 💪 Opened PR [#6](https://github.com/VontaJamal/seek-and-employ/pull/6) in [VontaJamal/seek-and-employ](https://github.com/VontaJamal/seek-and-employ)
 5. 🎉 Merged PR [#5](https://github.com/VontaJamal/seek-and-employ/pull/5) in [VontaJamal/seek-and-employ](https://github.com/VontaJamal/seek-and-employ)
 <!--END_SECTION:activity-->
+
+</details>
