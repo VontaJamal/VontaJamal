@@ -32,3 +32,6 @@
 ---
 
 <img align='left' alt="Vonta's Github Stats" src='https://github-readme-stats.vercel.app/api?username=vontajamal&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,stars&count_private=true'>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
