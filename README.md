@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/vontajamal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/vontajamal)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devontajohnson)
 
-## I'm a Girl Dad, Dev, and Teacher 😎
+## I'm a Girl Dad, Dev, and Content Creator 🫡
 
 - 🌱 I’m currently learning Remix 💿
 - 🎥 I’m looking to create content for others
