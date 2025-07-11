@@ -82,4 +82,4 @@ Feel free to reach out on [LinkedIn](https://linkedin.com/in/devontajohnson) or 
 
 ---
 
-_"I'm not gonna run away, I never go back on my word! That's my nindo: my ninja way!"_ - Naruto Uzumaki
+_"Hard work is necessary to become strong!"_ - Naruto Uzumaki
