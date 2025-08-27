@@ -12,13 +12,6 @@
 
 - 🤖 **AI Engineering Innovation**: Building AI-powered solutions that transform development workflows and deliver measurable business impact
 - 💡 **Technical Innovation**: Exploring cutting-edge AI tools and methodologies to solve complex business challenges
-- 🎥 **Content Creation**: Teaching developers how to be productive with AI through LinkedIn content
-
-### 🏆 Recent Achievements
-
-- **💰 Cost Optimization**: Led database migration reducing infrastructure costs by thousands monthly
-- **📊 Business Impact**: Designed cloud infrastructure instrumental in securing company's inaugural client contract
-- **🎤 Speaking**: Delivered one of the best talks at [RenderATL 2023](https://youtu.be/mEjl8idf3Lg?si=chUchlsQCl18z066)
 
 ## 🛠️ Tech Stack & Expertise
 
