@@ -22,7 +22,7 @@ Real-time data pipelines, automated signal scoring, paper trading execution, and
 
 ### The Seven Shadows
 
-Every system I build is governed by seven domains. No shadow is optional. No shadow outranks the Commander.
+The royal elite guard of my engineering. Seven domains that govern every line of code that ships under the Shadow Dominion.
 
 | Shadow | Domain |
 |--------|--------|
