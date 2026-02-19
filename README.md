@@ -42,7 +42,7 @@ The royal elite guard of my engineering. Seven domains that govern every line of
 
 ### The Stack
 
-TypeScript · React · Node.js · Python · PostgreSQL · Google Cloud · Tailscale · Solana/Web3
+TypeScript · React · Node.js · Python · PostgreSQL · Google Cloud · Solana/Web3
 
 10+ years shipping with these. I was already dangerous. The Shadows just took the ceiling off.
 
