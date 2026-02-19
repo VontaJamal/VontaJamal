@@ -20,12 +20,19 @@ Real-time data pipelines, automated signal scoring, paper trading execution, and
 
 ---
 
-### Shadow Doctrine
+### The Seven Shadows
 
-- **Systems over features.** I don't build things — I build systems that build things.
-- **Automation is silence.** The goal isn't a dashboard full of green lights. It's hearing nothing because everything works.
-- **Observability > testing.** Tests prove defects exist, not that they don't. I'd rather see every decision my system made and WHY than have 100 unit tests that pass.
-- **Self-healing > monitoring.** If your system can detect the problem, it should fix the problem. Alerts are a failure state.
+Every system I build is governed by seven domains. No shadow is optional. No shadow outranks the Commander.
+
+| Shadow | Domain |
+|--------|--------|
+| ✨ **Aesthetics** | Visual identity, interaction clarity, purposeful motion |
+| 🔒 **Security** | Trust boundaries, secrets, release posture |
+| ♿ **Accessibility** | WCAG 2.2 AA, keyboard-first, semantic correctness |
+| 🧪 **Testing** | Behavior-first — E2E and integration over unit test theater |
+| ⚡ **Execution** | Ship clean. Finish what you start. No half-deployed branches. |
+| ⚖️ **Scales** | Right-size complexity. Simple when simple is enough. |
+| 💎 **Value** | Design quality drives adoption, retention, and revenue. Pretty isn't enough. |
 
 ---
 
