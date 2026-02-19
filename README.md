@@ -22,7 +22,7 @@ Real-time data pipelines, automated signal scoring, paper trading execution, and
 
 ---
 
-### How I Think
+### Shadow Doctrine
 
 - **Systems over features.** I don't build things ΓÇö I build systems that build things.
 - **Automation is silence.** The goal isn't a dashboard full of green lights. It's hearing nothing because everything works.
