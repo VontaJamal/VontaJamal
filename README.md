@@ -41,7 +41,7 @@ Not listed because they matter less than what I build with them.
 
 - 🍜 **Anime** is culture, not a hobby. Naruto is the #1 anime of all time. The Uchiha were done wrong. Yu-Gi-Oh is S tier and I will hear nothing about it. I have the tattoos to prove my commitment.
 - 🎴 **MTG player** — strategy games sharpen how I think about systems
-- 🏋🏾 **Fitness** — Wendler 5/3/1, consistency over intensity
+- 🏋🏾 **Fitness** — Same discipline that ships code moves weight. Wendler 5/3/1. No days off.
 - 📍 Raleigh, NC
 
 ---
