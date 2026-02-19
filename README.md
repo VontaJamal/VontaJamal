@@ -1,4 +1,4 @@
-# Software engineer building autonomous systems that don't need me to run.
+# I don't build software. I build systems that execute.
 
 I don't just use AI tools — I architect systems where AI agents coordinate, report to each other, and execute 24/7 without human intervention.
 
