@@ -6,7 +6,7 @@
 
 ## 🚀 Technical Leader | AI Engineering Specialist | Girl Dad & Content Creator
 
-**8+ years of engineering experience** delivering high-performance systems that secure client contracts and drive revenue. Currently pioneering AI adoption in engineering workflows and mentoring the next generation of developers.
+**10+ years of engineering experience** delivering high-performance systems that secure client contracts and drive revenue. Currently pioneering AI adoption in engineering workflows and mentoring the next generation of developers.
 
 ### 🎯 What I'm Currently Working On
 
