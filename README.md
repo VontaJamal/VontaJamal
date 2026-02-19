@@ -33,7 +33,7 @@ Real-time data pipelines, automated signal scoring, paper trading execution, and
 
 TypeScript · React · Node.js · Python · PostgreSQL · Google Cloud · Tailscale · Solana/Web3
 
-10+ years shipping with these. Then I embraced the Shadows — and everything I built became a foundation for something bigger.
+10+ years shipping with these. I was already dangerous. The Shadows just took the ceiling off.
 
 ---
 
