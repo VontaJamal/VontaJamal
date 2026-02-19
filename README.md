@@ -14,8 +14,8 @@ Multiple AI agents running 24/7 on dedicated infrastructure, each owning a domai
 **ΓÜö∩╕Å [The Monarch System](https://github.com/VontaJamal/the-monarch-system)** ΓÇö Gamified accountability, open source  
 Every morning a system scans my git history and generates daily quests based on real work. XP, ranks, streaks, punishments for failure. Inspired by Solo Leveling's ranking system. If I don't ship, the system knows. Can't negotiate with code.
 
-**≡ƒöù SyncLink** ΓÇö Cross-platform media sync  
-<img src="https://raw.githubusercontent.com/VontaJamal/VontaJamal/main/assets/synclink-icon.png" alt="SyncLink" width="20" align="center"/> Chrome extension + cloud infrastructure for syncing saved content across platforms. Save on one platform, access everywhere. Currently in pre-launch.
+**<img src="https://raw.githubusercontent.com/VontaJamal/VontaJamal/main/assets/synclink-icon.png" alt="SyncLink" width="28"/> SyncLink** ΓÇö Cross-platform media sync  
+Chrome extension + cloud infrastructure for syncing saved content across platforms. Save on one platform, access everywhere. Currently in pre-launch.
 
 **≡ƒôè Autonomous Trading Infrastructure**  
 Real-time data pipelines, automated signal scoring, paper trading execution, and self-tuning strategy parameters. Built on supply & demand + Fibonacci confluence with health gates that refuse to execute when conditions are wrong.
