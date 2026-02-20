@@ -16,6 +16,9 @@ Multiple AI agents running 24/7 on dedicated infrastructure, each owning a domai
 **⚔️ [The Monarch System](https://github.com/VontaJamal/the-monarch-system)** — Gamified accountability, open source  
 Every morning a system scans my git history and generates daily quests based on real work. XP, ranks, streaks, punishments for failure. Inspired by Solo Leveling's ranking system. If I don't ship, the system knows. Can't negotiate with code.
 
+**🎙️ [Faye](https://github.com/VontaJamal/faye)** — Give your AI a voice. Open source.  
+Wake word detection + ElevenLabs TTS for OpenClaw agents. Say a word into the air, your AI talks back through your speaker. Named after Glenda Faye McPhail. The first open-source voice layer for AI agents.
+
 **<img src="https://raw.githubusercontent.com/VontaJamal/VontaJamal/main/assets/synclink-icon.png" alt="SyncLink" width="28"/> SyncLink** — Cross-platform media sync  
 Chrome extension + cloud infrastructure for syncing saved content across platforms. Save on one platform, access everywhere. Currently in pre-launch.
 
