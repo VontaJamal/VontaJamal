@@ -13,8 +13,11 @@ I architect systems where AI agents coordinate, report to each other, and execut
 **🖤 The Shadow Dominion** — A multi-agent AI ecosystem  
 Multiple AI agents running 24/7 on dedicated infrastructure, each owning a domain. A central orchestrator coordinates everything — dispatching tasks, synthesizing results, making decisions. Agent-to-agent communication, file-based memory systems, automated Telegram reporting. Not a demo. Not a proof of concept. Production infrastructure I rely on daily.
 
-**⚔️ [The Monarch System](https://github.com/VontaJamal/the-monarch-system)** — Gamified accountability, open source  
-Every morning a system scans my git history and generates daily quests based on real work. XP, ranks, streaks, punishments for failure. Inspired by Solo Leveling's ranking system. If I don't ship, the system knows. Can't negotiate with code.
+**⚔️ [Shadow Gate](https://github.com/VontaJamal/shadow-gate)** — Gamified developer accountability, open source  
+Your git history becomes your quest log. XP, ranks, streaks, punishments for failure. Inspired by Solo Leveling's ranking system. If I don't ship, the system knows. Can't negotiate with code.
+
+**🛡️ [Seven Shadow System](https://github.com/VontaJamal/seven-shadow-system)** — AI review guard for pull requests  
+Detect AI-generated reviews, enforce disclosure tags, require human approvals. Drop it into any repo as a submodule. Policy-driven, deterministic, auditable.
 
 **🎙️ [Faye](https://github.com/VontaJamal/faye)** — Have your own OpenClaw bot arise and speak to you. One click. Open source.  
 Wake word detection + ElevenLabs TTS. Say a word into the air, your AI talks back through your speaker. Named after Glenda Faye McPhail.
