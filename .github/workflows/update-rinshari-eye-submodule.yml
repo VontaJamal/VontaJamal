@@ -1,4 +1,4 @@
-name: Update rinshari-ui submodule
+name: Update rinshari-eye submodule
 
 on:
   schedule:
@@ -25,21 +25,21 @@ jobs:
           set -euo pipefail
           git submodule sync --recursive
           git submodule update --init --recursive
-          git -C design/rinshari-ui fetch origin main
-          git -C design/rinshari-ui checkout origin/main
+          git -C design/rinshari-eye fetch origin main
+          git -C design/rinshari-eye checkout origin/main
 
       - name: Create pull request
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          branch: codex/bump-rinshari-ui-submodule
+          branch: codex/bump-rinshari-eye-submodule
           base: main
-          title: "chore: bump rinshari-ui submodule"
-          commit-message: "chore: bump rinshari-ui submodule"
+          title: "chore: bump rinshari-eye submodule"
+          commit-message: "chore: bump rinshari-eye submodule"
           body: |
-            Automated update of `design/rinshari-ui` to latest `main`.
+            Automated update of `design/rinshari-eye` to latest `main`.
           labels: |
             automation
             design-system
           add-paths: |
-            design/rinshari-ui
+            design/rinshari-eye
