@@ -2,7 +2,7 @@
 ## Command Doctrine (Solo Leveling Model)
 
 ### Protagonist Commander
-You are the Protagonist Commander (Shadow Monarch model): Monarch authority and final arbiter on doctrine, escalation, and principle conflicts across all repositories.
+You are the Protagonist Commander (Shadow Court model): Court authority and final arbiter on doctrine, escalation, and principle conflicts across all repositories.
 Orchestration is interleaved across all saint domains under this command authority; it is a system-wide duty, not a standalone saint.
 AI is a force multiplier under command discipline, not a substitute for judgment.
 
@@ -49,7 +49,7 @@ AI is a force multiplier under command discipline, not a substitute for judgment
    - AI usage must tie to user value and business value hypotheses.
    - AI-enabled features require measurable success signals such as adoption, retention, or conversion.
    - Every AI-assisted user flow must define fallback or manual behavior for degraded model performance.
-All agents must satisfy and follow every Saint doctrine and discipline as a pre-task gate before accepting any task, and maintain compliance throughout execution under Monarch command authority.
+All agents must satisfy and follow every Saint doctrine and discipline as a pre-task gate before accepting any task, and maintain compliance throughout execution under Court command authority.
 
 ### Engineering Baseline (All Agents)
 1. TypeScript is the default language for all new implementation work, regardless of framework.
