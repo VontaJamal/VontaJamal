@@ -2,58 +2,61 @@
   <img src="https://raw.githubusercontent.com/VontaJamal/VontaJamal/main/assets/shadow-monarch.gif" alt="Shadow Monarch" width="200"/>
 </p>
 
-# Execute ⚔️ — I don't build software. My Shadows build systems 🖤
+# Execute ⚔️
 
 I architect systems where AI agents coordinate, report to each other, and execute 24/7 without human intervention.
 
 ---
 
-### What I'm Building
+## Sovereign
 
-**🖤 The Shadow Dominion** — A multi-agent AI ecosystem  
-Multiple AI agents running 24/7 on dedicated infrastructure, each owning a domain. A central orchestrator coordinates everything — dispatching tasks, synthesizing results, making decisions. Agent-to-agent communication, file-based memory systems, automated Telegram reporting. Not a demo. Not a proof of concept. Production infrastructure I rely on daily.
+An ecosystem of open-source tools, training programs, and autonomous systems — all interconnected, all in production, all free to use.
 
-**⚔️ [Shadow Gate](https://github.com/VontaJamal/shadow-gate)** — Gamified developer accountability, open source  
-Your git history becomes your quest log. XP, ranks, streaks, punishments for failure. Inspired by Solo Leveling's ranking system. If I don't ship, the system knows. Can't negotiate with code.
+Everything here solves a real problem I hit while building. Nothing is portfolio filler. Clone it, use it, make it yours.
+
+---
+
+### The Ecosystem
+
+**⚔️ [The Armory](https://github.com/VontaJamal/armory)** — Developer tools themed after Final Fantasy  
+Key vaults, system diagnostics, security scans, backups, monitoring. Equip your terminal. Works standalone — no dependencies on anything else here.
+
+**⚔️ [Shadow Gate](https://github.com/VontaJamal/shadow-gate)** — Gamified developer accountability  
+Your git history becomes your quest log. XP, ranks, streaks, punishments for not shipping. Inspired by Solo Leveling's ranking system. The code knows when you stop.
 
 **🛡️ [Seven Shadow System](https://github.com/VontaJamal/seven-shadow-system)** — AI review guard for pull requests  
-Detect AI-generated reviews, enforce disclosure tags, require human approvals. Drop it into any repo as a submodule. Policy-driven, deterministic, auditable.
+Detect AI-generated reviews, enforce disclosure, require human sign-off. Drop it into any repo as a submodule. Policy-driven and auditable.
 
-**🎙️ [Faye](https://github.com/VontaJamal/faye)** — Have your own OpenClaw bot arise and speak to you. One click. Open source.  
-Wake word detection + ElevenLabs TTS. Say a word into the air, your AI talks back through your speaker. Named after Glenda Faye McPhail.
+**🎙️ [Faye](https://github.com/VontaJamal/faye)** — Give your AI a voice  
+Wake word detection + ElevenLabs TTS. Say a word, your AI talks back through your speaker. One setup. Open source. Named after Glenda Faye McPhail.
 
-**📖 [Grimoire](https://github.com/VontaJamal/grimoire)** — Flashcard system with spaced repetition and Make It Stick principles `🚧 Coming Soon`  
-Organize cards by chapter, filter what you study, review on your terms. Anki-style scheduling meets retrieval practice, interleaving, and elaboration. Open your grimoire. Remember everything.
+**🥋 [Dojo](https://github.com/VontaJamal/dojo)** — Multi-agent orchestration training `🌀 Materializing...`  
+12 weeks. White belt to black belt. Walk in not knowing how to coordinate agents. Walk out building systems that run autonomously.
 
-**<img src="https://raw.githubusercontent.com/VontaJamal/VontaJamal/main/assets/synclink-icon.png" alt="SyncLink" width="28"/> SyncLink** — Cross-platform media sync  
-Chrome extension + cloud infrastructure for syncing saved content across platforms. Save on one platform, access everywhere. Currently in pre-launch.
+**📖 [Grimoire](https://github.com/VontaJamal/grimoire)** — Flashcards built on learning science `🌀 Materializing...`  
+Spaced repetition, retrieval practice, interleaving — from *Make It Stick*. Not another Anki clone.
 
-**⚔️ [The Armory](https://github.com/VontaJamal/armory)** — Final Fantasy-themed developer tools. Key vaults, diagnostics, backups, monitoring — equip your terminal.
+**📓 [Bingo Book](https://github.com/VontaJamal/bingo-book)** — Rank every anime you've watched `🌀 Materializing...`  
+Mt. Rushmore your top 4. Grade everything F through S. Share your profile. If you don't know what a Bingo Book is, this ain't for you.
 
-**📓 [Bingo Book](https://github.com/VontaJamal/bingo-book)** — Rank every anime you've ever watched `🚧 Coming Soon`  
-Mt. Rushmore your top 4, grade everything F through S, share your profile. If you don't know what a Bingo Book is, this ain't for you.
-
-**🥋 [Dojo](https://github.com/VontaJamal/dojo)** — The training arc for multi-agent orchestration `🚧 Coming Soon`  
-12-week program. Walk in not knowing how to coordinate agents. Walk out building systems that run autonomously. The Hyperbolic Time Chamber.
-
-**📊 Autonomous Trading Infrastructure**  
-Real-time data pipelines, automated signal scoring, paper trading execution, and self-tuning strategy parameters. Built on supply & demand + Fibonacci confluence with health gates that refuse to execute when conditions are wrong.
+**<img src="https://raw.githubusercontent.com/VontaJamal/VontaJamal/main/assets/synclink-icon.png" alt="SyncLink" width="20"/> [SyncLink](https://getsynclink.app)** — Cross-platform media sync  
+Chrome extension + cloud. Save on one platform, access everywhere. Pre-launch.
 
 ---
 
 ### The Seven Shadows
 
-The royal elite guard of my engineering. Seven domains that govern every line of code that ships under the Shadow Dominion.
+The engineering principles that govern every line of code shipped under Sovereign.
 
 | Shadow | Domain |
 |--------|--------|
-| ✨ **Aesthetics** | Visual identity, UX clarity, motion language, and cross-repo interface quality. Animation and whimsical flourishes are first-class, but only when they serve delight, comprehension, or retention. Every product keeps its own character. |
-| 🔒 **Security** | Threat modeling, trust boundaries, input safety, secrets protection, hardening, and release gates. AI outputs are untrusted input. No raw credentials touch external systems. Ever. |
-| ♿ **Access** | WCAG 2.2 AA compliance, keyboard-first navigation, semantic HTML, screen-reader behavior, non-color-only communication, and reduced-motion paths. Delight never blocks usability. |
-| 🧪 **Testing** | Behavior-first doctrine. E2E and integration over unit test theater. Tests prove the system works for users, not that functions return values. AI can draft tests; humans review for brittleness and false confidence. |
-| ⚡ **Execution** | Feature-branch-first delivery, autonomous run-to-completion, blocker-only interruptions, clean-tree gates. Never claim done while the branch is dirty. Accountability stays human-owned. |
-| ⚖️ **Scales** | Right-size complexity. Minimal viable architecture first. Scale only when measured constraints demand it. Never overbuild by default. Simple when simple is enough, aggressive when it's not. |
-| 💎 **Value** | Every feature must drive adoption, retention, or revenue, not just look good. AI-enabled features require measurable success signals and fallback behavior. Pretty without purpose doesn't ship. |
+| ✨ **Aesthetics** | Visual identity, UX clarity, motion language. Animation is first-class when it serves delight or comprehension. Every product keeps its own character. |
+| 🔒 **Security** | Threat modeling, trust boundaries, secrets protection, hardening. AI outputs are untrusted input. No raw credentials touch external systems. |
+| ♿ **Access** | WCAG 2.2 AA, keyboard-first, semantic HTML, screen-reader behavior. Delight never blocks usability. |
+| 🧪 **Testing** | Behavior-first. E2E and integration over unit test theater. Tests prove the system works for users. |
+| ⚡ **Execution** | Feature-branch delivery, clean-tree gates, run-to-completion. Never claim done while the branch is dirty. |
+| ⚖️ **Scales** | Right-size complexity. Minimal viable architecture first. Simple when simple is enough, aggressive when it's not. |
+| 💎 **Value** | Every feature drives adoption, retention, or revenue. Pretty without purpose doesn't ship. |
 
 ---
 
@@ -61,27 +64,22 @@ The royal elite guard of my engineering. Seven domains that govern every line of
 
 TypeScript · React · Node.js · Python · PostgreSQL · Google Cloud · Solana/Web3
 
-10+ years shipping with these. I was already dangerous. The Shadows just took the ceiling off.
-
-Anything I don't know, I learn when I need it. That's always been the cheat code.
+10+ years shipping. Anything I don't know, I learn when I need it. That's always been the cheat code.
 
 ---
 
 ### Beyond Code
 
-- 🍜 **Anime** is culture, not a hobby. Naruto is the #1 anime of all time. The Uchiha were done wrong. Yu-Gi-Oh is S tier and I will hear nothing about it. I have the tattoos to prove my commitment.
-- 🎴 **MTG player** — strategy games sharpen how I think about systems
-- 🏋🏾 **Fitness** — Same discipline that ships code moves weight. No days off.
+- 🍜 **Anime** is culture, not a hobby. Naruto is the #1 anime of all time. The Uchiha were done wrong. I have the tattoos to prove it.
+- 🏋🏾 **Fitness** — Same discipline that ships code moves weight.
 - 📍 Raleigh, NC
 
 ---
 
 ### Let's Talk
 
-If you're building autonomous systems, multi-agent architectures, or just think differently about software — I'm interested.
-
 [@VontaJamal](https://x.com/VontaJamal) · [LinkedIn](https://linkedin.com/in/devontajohnson)
 
 ---
 
-*"All of you... are my soldiers."* — Sung Jin-Woo, Solo Leveling
+*"All of you... are my soldiers."* — Sung Jin-Woo
