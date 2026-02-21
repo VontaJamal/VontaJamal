@@ -31,6 +31,9 @@ Chrome extension + cloud infrastructure for syncing saved content across platfor
 **⚔️ [The Armory](https://github.com/VontaJamal/armory)** — Battle-tested snippets and cheat sheets for OpenClaw  
 Cron gotchas, multi-machine gateway setup, NSSM services, agent communication patterns, encrypted backups. Real solutions from real production pain.
 
+**🥋 [Shadow Dojo](https://github.com/VontaJamal/shadow-dojo)** — The training arc for multi-agent orchestration  
+12-week program. Walk in not knowing how to coordinate agents. Walk out building systems that run autonomously. The Hyperbolic Time Chamber.
+
 **📊 Autonomous Trading Infrastructure**  
 Real-time data pipelines, automated signal scoring, paper trading execution, and self-tuning strategy parameters. Built on supply & demand + Fibonacci confluence with health gates that refuse to execute when conditions are wrong.
 
