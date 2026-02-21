@@ -22,7 +22,7 @@ Detect AI-generated reviews, enforce disclosure tags, require human approvals. D
 **🎙️ [Faye](https://github.com/VontaJamal/faye)** — Have your own OpenClaw bot arise and speak to you. One click. Open source.  
 Wake word detection + ElevenLabs TTS. Say a word into the air, your AI talks back through your speaker. Named after Glenda Faye McPhail.
 
-**📖 [Grimoire](https://github.com/VontaJamal/grimoire)** — Flashcard system with spaced repetition and Make It Stick principles  
+**📖 [Grimoire](https://github.com/VontaJamal/grimoire)** — Flashcard system with spaced repetition and Make It Stick principles `🚧 Coming Soon`  
 Organize cards by chapter, filter what you study, review on your terms. Anki-style scheduling meets retrieval practice, interleaving, and elaboration. Open your grimoire. Remember everything.
 
 **<img src="https://raw.githubusercontent.com/VontaJamal/VontaJamal/main/assets/synclink-icon.png" alt="SyncLink" width="28"/> SyncLink** — Cross-platform media sync  
@@ -30,10 +30,10 @@ Chrome extension + cloud infrastructure for syncing saved content across platfor
 
 **⚔️ [The Armory](https://github.com/VontaJamal/armory)** — Final Fantasy-themed developer tools. Key vaults, diagnostics, backups, monitoring — equip your terminal.
 
-**📓 [Bingo Book](https://github.com/VontaJamal/bingo-book)** — Rank every anime you've ever watched  
+**📓 [Bingo Book](https://github.com/VontaJamal/bingo-book)** — Rank every anime you've ever watched `🚧 Coming Soon`  
 Mt. Rushmore your top 4, grade everything F through S, share your profile. If you don't know what a Bingo Book is, this ain't for you.
 
-**🥋 [Shadow Dojo](https://github.com/VontaJamal/shadow-dojo)** — The training arc for multi-agent orchestration  
+**🥋 [Dojo](https://github.com/VontaJamal/dojo)** — The training arc for multi-agent orchestration `🚧 Coming Soon`  
 12-week program. Walk in not knowing how to coordinate agents. Walk out building systems that run autonomously. The Hyperbolic Time Chamber.
 
 **📊 Autonomous Trading Infrastructure**  
