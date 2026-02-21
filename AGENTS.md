@@ -19,7 +19,7 @@ AI is a force multiplier under command discipline, not a substitute for judgment
    - No raw secrets, credentials, or sensitive user data to external AI systems.
    - Prompts and attachments must be redacted or abstracted before model exposure.
    - Treat AI outputs as untrusted input and apply normal security review.
-3. Saint of Accessibility
+3. Shadow of Access
    Governs WCAG 2.2 AA, keyboard-first UX, semantic/screen-reader behavior, non-color-only communication, and reduced-motion compliance.
    Script (AI Laws):
    - AI may assist audits and content drafts but cannot be the sole accessibility validator.

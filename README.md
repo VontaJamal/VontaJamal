@@ -41,7 +41,7 @@ The royal elite guard of my engineering. Seven domains that govern every line of
 |--------|--------|
 | ✨ **Aesthetics** | Visual identity, UX clarity, motion language, and cross-repo interface quality. Animation and whimsical flourishes are first-class, but only when they serve delight, comprehension, or retention. Every product keeps its own character. |
 | 🔒 **Security** | Threat modeling, trust boundaries, input safety, secrets protection, hardening, and release gates. AI outputs are untrusted input. No raw credentials touch external systems. Ever. |
-| ♿ **Accessibility** | WCAG 2.2 AA compliance, keyboard-first navigation, semantic HTML, screen-reader behavior, non-color-only communication, and reduced-motion paths. Delight never blocks usability. |
+| ♿ **Access** | WCAG 2.2 AA compliance, keyboard-first navigation, semantic HTML, screen-reader behavior, non-color-only communication, and reduced-motion paths. Delight never blocks usability. |
 | 🧪 **Testing** | Behavior-first doctrine. E2E and integration over unit test theater. Tests prove the system works for users, not that functions return values. AI can draft tests; humans review for brittleness and false confidence. |
 | ⚡ **Execution** | Feature-branch-first delivery, autonomous run-to-completion, blocker-only interruptions, clean-tree gates. Never claim done while the branch is dirty. Accountability stays human-owned. |
 | ⚖️ **Scales** | Right-size complexity. Minimal viable architecture first. Scale only when measured constraints demand it. Never overbuild by default. Simple when simple is enough, aggressive when it's not. |
