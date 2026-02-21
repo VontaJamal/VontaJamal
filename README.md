@@ -28,6 +28,9 @@ Organize cards by chapter, filter what you study, review on your terms. Anki-sty
 **<img src="https://raw.githubusercontent.com/VontaJamal/VontaJamal/main/assets/synclink-icon.png" alt="SyncLink" width="28"/> SyncLink** — Cross-platform media sync  
 Chrome extension + cloud infrastructure for syncing saved content across platforms. Save on one platform, access everywhere. Currently in pre-launch.
 
+**⚔️ [The Armory](https://github.com/VontaJamal/armory)** — Battle-tested snippets and cheat sheets for OpenClaw  
+Cron gotchas, multi-machine gateway setup, NSSM services, agent communication patterns, encrypted backups. Real solutions from real production pain.
+
 **📊 Autonomous Trading Infrastructure**  
 Real-time data pipelines, automated signal scoring, paper trading execution, and self-tuning strategy parameters. Built on supply & demand + Fibonacci confluence with health gates that refuse to execute when conditions are wrong.
 
