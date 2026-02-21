@@ -28,8 +28,7 @@ Organize cards by chapter, filter what you study, review on your terms. Anki-sty
 **<img src="https://raw.githubusercontent.com/VontaJamal/VontaJamal/main/assets/synclink-icon.png" alt="SyncLink" width="28"/> SyncLink** — Cross-platform media sync  
 Chrome extension + cloud infrastructure for syncing saved content across platforms. Save on one platform, access everywhere. Currently in pre-launch.
 
-**⚔️ [The Armory](https://github.com/VontaJamal/armory)** — Battle-tested snippets and cheat sheets for OpenClaw  
-Cron gotchas, multi-machine gateway setup, NSSM services, agent communication patterns, encrypted backups. Real solutions from real production pain.
+**⚔️ [The Armory](https://github.com/VontaJamal/armory)** — Final Fantasy-themed developer tools. Key vaults, diagnostics, backups, monitoring — equip your terminal.
 
 **📓 [Bingo Book](https://github.com/VontaJamal/bingo-book)** — Rank every anime you've ever watched  
 Mt. Rushmore your top 4, grade everything F through S, share your profile. If you don't know what a Bingo Book is, this ain't for you.
