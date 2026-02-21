@@ -52,6 +52,8 @@ TypeScript · React · Node.js · Python · PostgreSQL · Google Cloud · Solana
 
 10+ years shipping with these. I was already dangerous. The Shadows just took the ceiling off.
 
+Anything I don't know, I learn when I need it. That's always been the cheat code.
+
 ---
 
 ### Beyond Code
