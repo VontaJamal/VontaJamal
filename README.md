@@ -31,6 +31,9 @@ Chrome extension + cloud infrastructure for syncing saved content across platfor
 **⚔️ [The Armory](https://github.com/VontaJamal/armory)** — Battle-tested snippets and cheat sheets for OpenClaw  
 Cron gotchas, multi-machine gateway setup, NSSM services, agent communication patterns, encrypted backups. Real solutions from real production pain.
 
+**📓 [Bingo Book](https://github.com/VontaJamal/bingo-book)** — Rank every anime you've ever watched  
+Mt. Rushmore your top 4, grade everything F through S, share your profile. If you don't know what a Bingo Book is, this ain't for you.
+
 **🥋 [Shadow Dojo](https://github.com/VontaJamal/shadow-dojo)** — The training arc for multi-agent orchestration  
 12-week program. Walk in not knowing how to coordinate agents. Walk out building systems that run autonomously. The Hyperbolic Time Chamber.
 
