@@ -8,7 +8,7 @@ I architect systems where AI agents coordinate, report to each other, and execut
 
 ---
 
-## Sovereign
+## 🏴‍☠️ Sovereign
 
 An ecosystem of open-source tools, training programs, and autonomous systems — all interconnected, all in production, all free to use.
 
