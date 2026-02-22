@@ -78,4 +78,4 @@ TypeScript · React · Node.js · Python · PostgreSQL · Google Cloud · Solana
 
 ---
 
-*"All of you... are my soldiers."* — Sung Jin-Woo
+*"All of you... are my soldiers."* — Sung Jinwoo
