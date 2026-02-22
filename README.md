@@ -44,8 +44,8 @@ Chrome extension + cloud. Save on one platform, access everywhere. Pre-launch.
 
 The engineering principles that govern every line of code shipped under Sovereign.
 
-| Shadow | Domain |
-|--------|--------|
+| Shadow &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Domain |
+|:------------------------------|--------|
 | ✨ **Aesthetics** | Visual identity, UX clarity, motion language. Animation is first-class when it serves delight or comprehension. Every product keeps its own character. |
 | 🔒 **Security** | Threat modeling, trust boundaries, secrets protection, hardening. AI outputs are untrusted input. No raw credentials touch external systems. |
 | ♿ **Access** | WCAG 2.2 AA, keyboard-first, semantic HTML, screen-reader behavior. Delight never blocks usability. |
