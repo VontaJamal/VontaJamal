@@ -32,6 +32,7 @@
 |---|---|---|---|---|
 | P2 | Updater workflow branch contract | Base branch was hardcoded to `main` and PR step ran even when no pointer changed | Fixed | Added default-branch resolution and no-change PR skip path |
 | P3 | Workflow supply-chain/hygiene | Activity workflow used deprecated checkout version and mutable `@master` action reference | Fixed | Updated to `actions/checkout@v4` and `jamesgeorge007/github-activity-readme@v0.4.6` |
+| P1 | Submodule path integrity | Gitlink still pointed to `design/rinshari-ui` while `.gitmodules` declared `design/rinshari-eye` | Fixed | Renamed submodule gitlink path to `design/rinshari-eye` to restore checkout/submodule consistency |
 
 ## Residual Risks / Follow-ups
 - Consider pinning third-party actions by commit digest in a dedicated workflow-hardening pass if strict immutability is required.
