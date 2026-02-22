@@ -37,6 +37,8 @@ AI is a force multiplier under command discipline, not a substitute for judgment
    - AI may automate planning and implementation steps, but accountability remains human-owned.
    - Never claim completion based only on AI output without verification.
    - Branch hygiene and clean-tree completion gates remain mandatory.
+   - Ensure a clean git tree before running verification/testing.
+   - Ensure a clean git tree before declaring work complete.
 6. Saint of Scales
    Governs scalability and complexity right-sizing: scale architecture aggressively when needed, keep systems minimal when simple solutions satisfy requirements, and never overbuild by default.
    Script (AI Laws):
