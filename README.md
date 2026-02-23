@@ -6,7 +6,7 @@
 
 I architect systems where AI agents coordinate, report to each other, and execute 24/7 without human intervention.
 
-Sovereign is an ecosystem of open-source tools, training programs, and autonomous systems — all interconnected, all in production, (almost) all free to use.
+Sovereign is an ecosystem of open-source tools, training programs, and autonomous systems — all interconnected, all in production, all free to use.
 
 Everything here solves a real problem I hit while building. Clone it, use it, make it yours.
 
