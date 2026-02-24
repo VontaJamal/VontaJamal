@@ -35,7 +35,7 @@ Spaced repetition, retrieval practice, interleaving — from *Make It Stick*. No
 **📓 [Bingo Book](https://github.com/VontaJamal/bingo-book)** — Rank every anime you've watched `🌀 Materializing...`  
 Mt. Rushmore your top 4. Grade everything F through S. Share your profile. If you don't know what a Bingo Book is, this ain't for you.
 
-**<img src="https://raw.githubusercontent.com/VontaJamal/VontaJamal/main/assets/synclink-icon.png" alt="SyncLink" width="20"/> [SyncLink](https://getsynclink.app)** — Cross-platform media sync  
+**<img src="https://raw.githubusercontent.com/VontaJamal/VontaJamal/main/assets/synclink-icon.png" alt="SyncLink" width="20"/> SyncLink** — Cross-platform media sync  
 Chrome extension + cloud. Save on one platform, access everywhere. Pre-launch.
 
 ---
