@@ -50,7 +50,7 @@ The engineering principles that govern every line of code shipped under Sovereig
 | ✨ **Aesthetics** | Visual identity, UX clarity, motion language. Animation is first-class when it serves delight or comprehension. Every product keeps its own character. |
 | ⚡ **Execution** | Feature-branch delivery, clean-tree gates, run-to-completion. Never claim done while the branch is dirty. |
 | ⚖️ **Scales** | Right-size complexity. Minimal viable architecture first. Simple when simple is enough, aggressive when it's not. |
-| 🔒 **Security** | Threat modeling, trust boundaries, secrets protection, hardening. AI outputs are untrusted input. No raw credentials touch external systems. |
+| 🔒 **Security** | User data stays private. Keys stay out of code. AI output gets verified. Every app ships hardened against the threats we know — and the ones we don't. |
 | 🧪 **Testing** | Behavior-first. E2E and integration over unit test theater. Tests prove the system works for users. |
 | 💎 **Value** | Every feature drives adoption, retention, or revenue. Pretty without purpose doesn't ship. |
 
