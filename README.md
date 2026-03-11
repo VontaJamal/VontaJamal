@@ -46,12 +46,12 @@ The engineering principles that govern every line of code shipped under Sovereig
 
 | Shadow &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Domain |
 |:------------------------------|--------|
-| ✨ **Aesthetics** | Visual identity, UX clarity, motion language. Animation is first-class when it serves delight or comprehension. Every product keeps its own character. |
-| 🔒 **Security** | Threat modeling, trust boundaries, secrets protection, hardening. AI outputs are untrusted input. No raw credentials touch external systems. |
 | ♿ **Access** | WCAG 2.2 AA, keyboard-first, semantic HTML, screen-reader behavior. Delight never blocks usability. |
-| 🧪 **Testing** | Behavior-first. E2E and integration over unit test theater. Tests prove the system works for users. |
+| ✨ **Aesthetics** | Visual identity, UX clarity, motion language. Animation is first-class when it serves delight or comprehension. Every product keeps its own character. |
 | ⚡ **Execution** | Feature-branch delivery, clean-tree gates, run-to-completion. Never claim done while the branch is dirty. |
 | ⚖️ **Scales** | Right-size complexity. Minimal viable architecture first. Simple when simple is enough, aggressive when it's not. |
+| 🔒 **Security** | Threat modeling, trust boundaries, secrets protection, hardening. AI outputs are untrusted input. No raw credentials touch external systems. |
+| 🧪 **Testing** | Behavior-first. E2E and integration over unit test theater. Tests prove the system works for users. |
 | 💎 **Value** | Every feature drives adoption, retention, or revenue. Pretty without purpose doesn't ship. |
 
 ---
