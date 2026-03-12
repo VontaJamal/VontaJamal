@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/VontaJamal/VontaJamal/main/assets/shadow-monarch.gif" alt="Shadow Monarch" width="200"/>
 </p>
 
-# 🏴‍☠️ Sovereign - Execute ⚔️
+# 🏴‍☠️ Sovereign - Execute! ⚔️
 
 I architect systems where AI agents coordinate, report to each other, and execute 24/7 without human intervention.
 
